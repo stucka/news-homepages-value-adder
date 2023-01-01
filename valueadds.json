@@ -1,0 +1,3486 @@
+{
+    "WBTV_News": {
+        "geoname": "Charlotte, North Carolina",
+        "latlong": "35.2272086, -80.8430827"
+    },
+    "11AliveNews": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "12NewsNow": {
+        "geoname": "Beaumont, Texas",
+        "latlong": "30.0860459, -94.1018461"
+    },
+    "12khari": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "13wmaznews": {
+        "geoname": "Macon, Georgia",
+        "latlong": "32.8406946, -83.6324022"
+    },
+    "14eastmag": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "1NewsNZ": {
+        "geoname": "Auckland, New Zealand",
+        "latlong": "-36.852095, 174.7631803"
+    },
+    "20Minutes": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "3NewsNowOmaha": {
+        "geoname": "Omaha, Nebraska",
+        "latlong": "41.2587459, -95.9383758"
+    },
+    "41NBC": {
+        "geoname": "Macon, Georgia",
+        "latlong": "32.8406946, -83.6324022"
+    },
+    "6abc": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "9NEWS": {
+        "geoname": "Denver, Colorado",
+        "latlong": "39.7392364, -104.984862"
+    },
+    "ABC15": {
+        "geoname": "Phoenix, Arizona",
+        "latlong": "33.4484367, -112.074141"
+    },
+    "ABC7": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "ABQJournal": {
+        "geoname": "Albuquerque, New Mexico",
+        "latlong": "35.2128709, -106.7132485"
+    },
+    "AJEnglish": {
+        "geoname": "Doha, Qatar",
+        "latlong": "25.2856329, 51.5264162"
+    },
+    "AKNewsNow": {
+        "geoname": "Anchorage, Alaska",
+        "latlong": "61.2163129, -149.894852"
+    },
+    "ALPublicRadio": {
+        "geoname": "Tuscaloosa, Alabama",
+        "latlong": "33.2095614, -87.5675258"
+    },
+    "ALReporter": {
+        "geoname": "Montgomery, Alabama",
+        "latlong": "32.3669656, -86.3006485"
+    },
+    "AUG_Chronicle": {
+        "geoname": "Augusta, Georgia",
+        "latlong": "33.4709714, -81.9748429"
+    },
+    "AberdeenNews": {
+        "geoname": "Aberdeen, South Dakota",
+        "latlong": "45.4649805, -98.487813"
+    },
+    "Adnkronos": {
+        "geoname": "Rome, Italy",
+        "latlong": "41.8933203, 12.4829321"
+    },
+    "Aftenposten": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "Akpublicnews": {
+        "geoname": "Anchorage, Alaska",
+        "latlong": "61.2163129, -149.894852"
+    },
+    "AlDiaDallas": {
+        "geoname": "Dallas, Texas",
+        "latlong": "32.7762719, -96.7968559"
+    },
+    "Albany_Herald": {
+        "geoname": "Albany, Georgia",
+        "latlong": "31.5782062, -84.1556809"
+    },
+    "Alma_Preta": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "AmesTribNews": {
+        "geoname": "Ames, Iowa",
+        "latlong": "42.0267567, -93.6170448"
+    },
+    "Annapurna_Post": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "AristeguiOnline": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "ArizCIR": {
+        "geoname": "Phoenix, Arizona",
+        "latlong": "33.4484367, -112.074141"
+    },
+    "ArkBusiness": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "ArkTimes": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "ArkansasOnline": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "AsburyParkPress": {
+        "geoname": "Asbury Park, New Jersey",
+        "latlong": "40.2203907, -74.0120817"
+    },
+    "AshlandORNews": {
+        "geoname": "Ashland, Oregon",
+        "latlong": "42.1972487, -122.7153995"
+    },
+    "AspenJournalism": {
+        "geoname": "Aspen, Colorado",
+        "latlong": "39.1911128, -106.8235606"
+    },
+    "AustinChronicle": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "AustinVida": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "AvlWatchdog": {
+        "geoname": "Asheville, North Carolina",
+        "latlong": "35.6009498, -82.5540161"
+    },
+    "BFMTV": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "BILD": {
+        "geoname": "Berlin, Germany",
+        "latlong": "52.5170365, 13.3888599"
+    },
+    "BINJreports": {
+        "geoname": "Somerville, Massachusetts",
+        "latlong": "42.3875968, -71.0994968"
+    },
+    "BaltBizOnline": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "BaltimoreBanner": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "BaltimoreBrew": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "Baltimoremag": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "BarnPat": {
+        "geoname": "Barnstable, Massachusetts",
+        "latlong": "41.6718684, -70.3499234"
+    },
+    "BartlesvilleEE": {
+        "geoname": "Bartlesville, Oklahoma",
+        "latlong": "36.7421089, -95.9528877"
+    },
+    "BelTel": {
+        "geoname": "Belfast, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "54.596391, -5.9301829"
+    },
+    "Berkeleyside": {
+        "geoname": "Berkeley, California",
+        "latlong": "37.8753497, -122.2396336"
+    },
+    "BerkshireEagle": {
+        "geoname": "Pittsfield, Massachusetts",
+        "latlong": "42.451302, -73.260018"
+    },
+    "BetterGov": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "BlockClubCHI": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "BlueRidgeNow": {
+        "geoname": "Hendersonville, North Carolina",
+        "latlong": "35.3187279, -82.4609528"
+    },
+    "BlufftonToday": {
+        "geoname": "Bluffton, South Carolina",
+        "latlong": "32.2371465, -80.8603868"
+    },
+    "BmtEnterprise": {
+        "geoname": "Beaumont, Texas",
+        "latlong": "30.0860459, -94.1018461"
+    },
+    "Borderless_Mag": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "BostonGlobe": {
+        "geoname": "Boston, Massachusetts",
+        "latlong": "42.3554334, -71.060511"
+    },
+    "BostonHerald": {
+        "geoname": "Boston, Massachusetts",
+        "latlong": "42.3554334, -71.060511"
+    },
+    "BreakingNews_RS": {
+        "geoname": "Redding, California",
+        "latlong": "40.5863563, -122.391675"
+    },
+    "BreckTexan": {
+        "geoname": "Breckenridge, Texas",
+        "latlong": "32.7558392, -98.9032554"
+    },
+    "Brunswick_News": {
+        "geoname": "Brunswick, Georgia",
+        "latlong": "31.1499528, -81.4914894"
+    },
+    "BucyrusTF": {
+        "geoname": "Bucyrus, Ohio",
+        "latlong": "40.8083909, -82.9754649"
+    },
+    "BurlcoTimes": {
+        "geoname": "Willingboro, New Jersey",
+        "latlong": "40.0278894, -74.8690542"
+    },
+    "CBNoficial": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "CBS7News": {
+        "geoname": "Odessa, Texas",
+        "latlong": "31.8457149, -102.367687"
+    },
+    "CCurrentArgus": {
+        "geoname": "Carlsbad, New Mexico",
+        "latlong": "32.4257456, -104.237612"
+    },
+    "CJOnline": {
+        "geoname": "Topeka, Kansas",
+        "latlong": "39.049011, -95.677556"
+    },
+    "CNNBrasil": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "CNSmd": {
+        "geoname": "College Park, Maryland",
+        "latlong": "38.9904124, -76.9438586"
+    },
+    "CODaily": {
+        "geoname": "Bend, Oregon",
+        "latlong": "44.0581728, -121.3153096"
+    },
+    "CPRNews": {
+        "geoname": "Centennial, Colorado",
+        "latlong": "39.579155, -104.8769227"
+    },
+    "CPublicPress": {
+        "geoname": "Asheville, North Carolina",
+        "latlong": "35.6009498, -82.5540161"
+    },
+    "CSTribune": {
+        "geoname": "Casper, Wyoming",
+        "latlong": "42.8501191, -106.325138"
+    },
+    "CalMatters": {
+        "geoname": "Sacramento, California",
+        "latlong": "38.5810606, -121.493895"
+    },
+    "CantonLedger": {
+        "geoname": "Canton, Illinois",
+        "latlong": "40.5580945, -90.0351167"
+    },
+    "CantonRepdotcom": {
+        "geoname": "Canton, Ohio",
+        "latlong": "40.7985464, -81.3749508"
+    },
+    "CapitalB_ATL": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "Charlie_Hebdo_": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "Chequeado": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "ChessBase": {
+        "geoname": "Hamburg, Germany",
+        "latlong": "53.550341, 10.000654"
+    },
+    "ChicagoReporter": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "Chicago_Reader": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "ChieftainNews": {
+        "geoname": "Pueblo, Colorado",
+        "latlong": "38.2544472, -104.609141"
+    },
+    "ChilliGaz": {
+        "geoname": "Chillicothe, Ohio",
+        "latlong": "39.3331197, -82.9824019"
+    },
+    "CiceroNoticias": {
+        "geoname": "Cicero, Illinois",
+        "latlong": "41.8455398, -87.7540199"
+    },
+    "CityAndStateNY": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "CivilBeat": {
+        "geoname": "Honolulu, Hawaii",
+        "latlong": "21.304547, -157.855676"
+    },
+    "CoMissourian": {
+        "geoname": "Columbia, Missouri",
+        "latlong": "38.951883, -92.3337366"
+    },
+    "ColoradoSun": {
+        "geoname": "Denver, Colorado",
+        "latlong": "39.7392364, -104.984862"
+    },
+    "Corriere": {
+        "geoname": "Milano, Italy",
+        "latlong": "45.4641943, 9.1896346"
+    },
+    "CourierTimes": {
+        "geoname": "Levittown, Pennsylvania",
+        "latlong": "40.1541257, -74.8408768"
+    },
+    "Courier_Tribune": {
+        "geoname": "Asheboro, North Carolina",
+        "latlong": "35.7079146, -79.8136446"
+    },
+    "Cronistacom": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "CrucesSunNews": {
+        "geoname": "Las Cruces, New Mexico",
+        "latlong": "32.3140354, -106.779807"
+    },
+    "DMRegister": {
+        "geoname": "Des Moines, Iowa",
+        "latlong": "41.5910323, -93.6046655"
+    },
+    "DN_no": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "Dagsavisen": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "DailyComet": {
+        "geoname": "Thibodaux, Louisiana",
+        "latlong": "29.4174525, -90.7844349"
+    },
+    "DailyJeff": {
+        "geoname": "Cambridge, Ohio",
+        "latlong": "40.031183, -81.5884561"
+    },
+    "DailyNeb": {
+        "geoname": "Lincoln, Nebraska",
+        "latlong": "40.8088861, -96.7077751"
+    },
+    "Daily_Record": {
+        "geoname": "Glasgow, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "55.8609825, -4.2488787"
+    },
+    "DainikBhaskar": {
+        "geoname": "Bhopal, India",
+        "latlong": "23.2584857, 77.401989"
+    },
+    "DallasBizNews": {
+        "geoname": "Dallas, Texas",
+        "latlong": "32.7762719, -96.7968559"
+    },
+    "DallasCoNews": {
+        "geoname": "Adel, Iowa",
+        "latlong": "41.6174123, -94.0185176"
+    },
+    "DandC": {
+        "geoname": "Rochester, New York state",
+        "latlong": "43.157285, -77.615214"
+    },
+    "DelawarePublic": {
+        "geoname": "Dover, Delaware",
+        "latlong": "39.158168, -75.5243682"
+    },
+    "DelawareToday": {
+        "geoname": "Wilmington, Delaware",
+        "latlong": "39.7459468, -75.546589"
+    },
+    "DenverChannel": {
+        "geoname": "Denver, Colorado",
+        "latlong": "39.7392364, -104.984862"
+    },
+    "Denverite": {
+        "geoname": "Denver, Colorado",
+        "latlong": "39.7392364, -104.984862"
+    },
+    "Deseret": {
+        "geoname": "Salt Lake City, Utah",
+        "latlong": "40.7596198, -111.8867975"
+    },
+    "DesertSunNews": {
+        "geoname": "Palm Springs, California",
+        "latlong": "33.7721794, -116.4952977"
+    },
+    "DestinLog": {
+        "geoname": "Destin, Florida",
+        "latlong": "30.3935337, -86.4957834"
+    },
+    "DiarioPE": {
+        "geoname": "Recife, Brazil",
+        "latlong": "-8.0584933, -34.8848193"
+    },
+    "DispatchAlerts": {
+        "geoname": "Columbus, Ohio",
+        "latlong": "39.9622601, -83.0007065"
+    },
+    "ECLedger": {
+        "geoname": "Ellwood City, Pennsylvania",
+        "latlong": "40.8617303, -80.2864515"
+    },
+    "ELTIEMPO": {
+        "geoname": "Bogat\u00e1, Colombia",
+        "latlong": "4.7619657, -74.0453134"
+    },
+    "EagleGazette": {
+        "geoname": "Lancaster, Ohio",
+        "latlong": "39.7136754, -82.5993294"
+    },
+    "EastBayTimes": {
+        "geoname": "Walnut Creek, California",
+        "latlong": "37.9020731, -122.0618702"
+    },
+    "ElFinanciero_Mx": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "El_Universal_Mx": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "Enquirer": {
+        "geoname": "Cincinnati, Indiana",
+        "latlong": "39.0200469, -86.728891"
+    },
+    "Estadao": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "EvRoundTable": {
+        "geoname": "Evanston, Illinois",
+        "latlong": "42.0447388, -87.6930459"
+    },
+    "EveningStandard": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "Excelsior": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "ExpressNews": {
+        "geoname": "San Antonio, Texas",
+        "latlong": "29.4246002, -98.4951405"
+    },
+    "EyethuNewsKZN": {
+        "geoname": "Pietermaritzburg, South Africa",
+        "latlong": "-29.6, 30.3788889"
+    },
+    "FLPhoenixNews": {
+        "geoname": "Tallahassee, Florida",
+        "latlong": "30.4380832, -84.2809332"
+    },
+    "FOX29philly": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "FOXLA": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "FRANCE24": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "Fla_Pol": {
+        "geoname": "Tampa, Florida",
+        "latlong": "27.9477595, -82.458444"
+    },
+    "FlightGlobal": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "Florida_Bulldog": {
+        "geoname": "Fort Lauderdale, Florida",
+        "latlong": "26.1223084, -80.1433786"
+    },
+    "Florida_Today": {
+        "geoname": "Viera, Florida",
+        "latlong": "28.243006, -80.7301522"
+    },
+    "FortWorthReport": {
+        "geoname": "Fort Worth, Texas",
+        "latlong": "32.753177, -97.3327459"
+    },
+    "FostersDailyDem": {
+        "geoname": "Dover, New Hampshire",
+        "latlong": "43.1981117, -70.8739761"
+    },
+    "Fox5Atlanta": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "France24_en": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "GCM_nf": {
+        "geoname": "Oak Park, Illinois",
+        "latlong": "41.8878145, -87.7887615"
+    },
+    "GFTribune": {
+        "geoname": "Great Falls, Montana",
+        "latlong": "47.5048851, -111.29189"
+    },
+    "GainesvilleSun": {
+        "geoname": "Gainesville, Florida",
+        "latlong": "29.6519684, -82.3249846"
+    },
+    "Galesburg": {
+        "geoname": "Galesburg, Illinois",
+        "latlong": "40.9475652, -90.3712169"
+    },
+    "GalvNews": {
+        "geoname": "Galveston, Texas",
+        "latlong": "29.299328, -94.7945882"
+    },
+    "Gen_Republic": {
+        "geoname": "Geneseo, Illinois",
+        "latlong": "41.4525168, -90.1548364"
+    },
+    "GoErie": {
+        "geoname": "Erie, Pennsylvania",
+        "latlong": "42.1294712, -80.0852695"
+    },
+    "GoUpstate": {
+        "geoname": "Spartanburg, South Carolina",
+        "latlong": "34.9498007, -81.9320157"
+    },
+    "GothamGazette": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "Gothamist": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "GreenvilleNews": {
+        "geoname": "Greenville, South Carolina",
+        "latlong": "34.851354, -82.3984882"
+    },
+    "GwinnettDaily": {
+        "geoname": "Lawrenceville, Georgia",
+        "latlong": "33.9562149, -83.9879625"
+    },
+    "HITribuneHerald": {
+        "geoname": "Hilo, Hawaii",
+        "latlong": "19.7073734, -155.08158"
+    },
+    "HNNow": {
+        "geoname": "Fall River, Rhode Island",
+        "latlong": "41.4499871, -71.8050448"
+    },
+    "HaaretzCom": {
+        "geoname": "Tel Aviv, Israel",
+        "latlong": "32.0852997, 34.7818064"
+    },
+    "HellGateNY": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "HeraldMailNews": {
+        "geoname": "Hagerstown, West Virginia",
+        "latlong": "39.649954, -79.943818"
+    },
+    "HeraldTribune": {
+        "geoname": "Sarasota, Florida",
+        "latlong": "27.3365805, -82.5308545"
+    },
+    "HiddenCityPhila": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "HollandSentinel": {
+        "geoname": "Holland, Michigan",
+        "latlong": "42.7876022, -86.1090828"
+    },
+    "HornellTribune": {
+        "geoname": "Hornell, New York state",
+        "latlong": "42.3278477, -77.6611025"
+    },
+    "HoumaToday": {
+        "geoname": "Houma, Louisiana",
+        "latlong": "29.580748, -90.7213746"
+    },
+    "HoustonChron": {
+        "geoname": "Houston, Texas",
+        "latlong": "29.7589382, -95.3676974"
+    },
+    "HromadskeUA": {
+        "geoname": "Kiev, Ukraine",
+        "latlong": "50.4500336, 30.5241361"
+    },
+    "HuffPostCanada": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "HutchNews": {
+        "geoname": "Hutchinson, Kansas",
+        "latlong": "38.0608444, -97.9297743"
+    },
+    "IOL": {
+        "geoname": "Cape Town, South Africa",
+        "latlong": "-33.928992, 18.417396"
+    },
+    "IlangaNewspaper": {
+        "geoname": "Durban, South Africa",
+        "latlong": "-29.861825, 31.009909"
+    },
+    "Indedotcom": {
+        "geoname": "Massillon, Ohio",
+        "latlong": "40.7965119, -81.5231597"
+    },
+    "Independent": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "Independent_ie": {
+        "geoname": "Dublin, Ireland",
+        "latlong": "53.3498006, -6.2602964"
+    },
+    "IndiaToday": {
+        "geoname": "Noida, India",
+        "latlong": "28.5707841, 77.3271074"
+    },
+    "InfoAmazoniaBR": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "IoniaSSNews": {
+        "geoname": "Ionia, Michigan",
+        "latlong": "42.9469688, -85.0713945"
+    },
+    "IowaPublicRadio": {
+        "geoname": "Des Moines, Iowa",
+        "latlong": "41.5910323, -93.6046655"
+    },
+    "IrishCathNews": {
+        "geoname": "Dublin, Ireland",
+        "latlong": "53.3498006, -6.2602964"
+    },
+    "IrishTimes": {
+        "geoname": "Dublin, Ireland",
+        "latlong": "53.3498006, -6.2602964"
+    },
+    "IsraelHayomEng": {
+        "geoname": "Tel Aviv, Israel",
+        "latlong": "32.0852997, 34.7818064"
+    },
+    "JacksonHoleNews": {
+        "geoname": "Jackson Hole, Wyoming",
+        "latlong": "43.684017, -110.4436629"
+    },
+    "JDNews": {
+        "geoname": "Jacksonville, North Carolina",
+        "latlong": "34.7494749, -77.4208221"
+    },
+    "JN_Japanese": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "JSunNews": {
+        "geoname": "Jackson, Tennessee",
+        "latlong": "35.6144446, -88.8177418"
+    },
+    "JagranNews": {
+        "geoname": "Kanpur, India",
+        "latlong": "26.4609135, 80.3217588"
+    },
+    "Jerusalem_Post": {
+        "geoname": "Jerusalem, Israel",
+        "latlong": "31.7959242, 35.2119808"
+    },
+    "JoplinGlobe": {
+        "geoname": "Joplin, Missouri",
+        "latlong": "37.0841838, -94.5133385"
+    },
+    "JornaldoBrasil": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "JournalStarNews": {
+        "geoname": "Lincoln, Nebraska",
+        "latlong": "40.8088861, -96.7077751"
+    },
+    "JuneauEmpire": {
+        "geoname": "Juneau, Alaska",
+        "latlong": "58.3019496, -134.419734"
+    },
+    "KAKEnews": {
+        "geoname": "Wichita, Kansas",
+        "latlong": "37.6922361, -97.3375448"
+    },
+    "KARK4News": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "KATVNews": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "KCCINews": {
+        "geoname": "Des Moines, Iowa",
+        "latlong": "41.5910323, -93.6046655"
+    },
+    "KCDefender": {
+        "geoname": "Kansas City, Missouri",
+        "latlong": "39.100105, -94.5781416"
+    },
+    "KCRG": {
+        "geoname": "Cedar Rapids, Iowa",
+        "latlong": "41.9758872, -91.6704053"
+    },
+    "KETV": {
+        "geoname": "Omaha, Nebraska",
+        "latlong": "41.2587459, -95.9383758"
+    },
+    "KHONnews": {
+        "geoname": "Honolulu, Hawaii",
+        "latlong": "21.304547, -157.855676"
+    },
+    "KHOU": {
+        "geoname": "Houston, Texas",
+        "latlong": "29.7589382, -95.3676974"
+    },
+    "KING5Seattle": {
+        "geoname": "Seattle, Washington",
+        "latlong": "47.6038321, -122.330062"
+    },
+    "KITV4": {
+        "geoname": "Honolulu, Hawaii",
+        "latlong": "21.304547, -157.855676"
+    },
+    "KOMUnews": {
+        "geoname": "Columbia, Missouri",
+        "latlong": "38.951883, -92.3337366"
+    },
+    "KPR_Frankfort": {
+        "geoname": "Louisville, Kentucky",
+        "latlong": "38.2542376, -85.759407"
+    },
+    "KQED": {
+        "geoname": "San Francisco, California",
+        "latlong": "37.7790262, -122.419906"
+    },
+    "KSNNews": {
+        "geoname": "Wichita, Kansas",
+        "latlong": "37.6922361, -97.3375448"
+    },
+    "KTLA": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "KTOOpubmedia": {
+        "geoname": "Juneau, Alaska",
+        "latlong": "58.3019496, -134.419734"
+    },
+    "KUT": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "KVOA": {
+        "geoname": "Tucson, Arizona",
+        "latlong": "32.2228765, -110.9748477"
+    },
+    "KVUE": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "KXAN_News": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "KitsapSun": {
+        "geoname": "Kitsap, Washington",
+        "latlong": "47.594502, -122.6474421"
+    },
+    "KnockDotLA": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "KyStandard": {
+        "geoname": "Bardstown, Kentucky",
+        "latlong": "37.8092463, -85.4669015"
+    },
+    "KyivPost": {
+        "geoname": "Kiev, Ukraine",
+        "latlong": "50.4500336, 30.5241361"
+    },
+    "LANACION": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "LATACO": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "LDNews": {
+        "geoname": "Lebanon, Pennsylvania",
+        "latlong": "40.375713, -76.4626118"
+    },
+    "LEX18News": {
+        "geoname": "Lexington, Kentucky",
+        "latlong": "38.0464066, -84.4970393"
+    },
+    "LJWorld": {
+        "geoname": "Lawrence, Kansas",
+        "latlong": "38.9719384, -95.2359496"
+    },
+    "LRB": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "LSJNews": {
+        "geoname": "Lansing, Michigan",
+        "latlong": "42.7337712, -84.5553805"
+    },
+    "LaCrosseTribune": {
+        "geoname": "LaCrosse, Wisconsin",
+        "latlong": "43.904302, -91.1041063"
+    },
+    "LaPrensaAr": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "LaStampa": {
+        "geoname": "Torino, Italy",
+        "latlong": "45.0677551, 7.6824892"
+    },
+    "LaVanguardia": {
+        "geoname": "Barcelona, Spain",
+        "latlong": "41.3828939, 2.1774322"
+    },
+    "La_SER": {
+        "geoname": "Madrid, Spain",
+        "latlong": "40.4167047, -3.7035825"
+    },
+    "LagrangeNews": {
+        "geoname": "LaGrange, Georgia",
+        "latlong": "33.039291, -85.0313269"
+    },
+    "LasVegasSun": {
+        "geoname": "Las Vegas, Nevada",
+        "latlong": "36.1672559, -115.148516"
+    },
+    "LeHuffPost": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "LeMonde_EN": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "Le_Figaro": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "LeafChronicle": {
+        "geoname": "Clarksville, Tennessee",
+        "latlong": "36.5277607, -87.3588703"
+    },
+    "LewistonTribune": {
+        "geoname": "Lewiston, Idaho",
+        "latlong": "46.4195913, -117.0216144"
+    },
+    "LittleVillage": {
+        "geoname": "Iowa City, Iowa",
+        "latlong": "41.6612561, -91.5299106"
+    },
+    "Live_Hindustan": {
+        "geoname": "New Delhi, India",
+        "latlong": "28.6138954, 77.2090057"
+    },
+    "LivingstonDaily": {
+        "geoname": "Livingston, Michigan",
+        "latlong": "42.5924563, -83.9147925"
+    },
+    "Lokaantar": {
+        "geoname": "Lalitpur, Nepal",
+        "latlong": "27.6676768, 85.3183919"
+    },
+    "MDDailyRecord": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "MDR_SAN": {
+        "geoname": "Magdeburg, Germany",
+        "latlong": "52.1315889, 11.6399609"
+    },
+    "MGMAdvertiser": {
+        "geoname": "Montgomery, Alabama",
+        "latlong": "32.3669656, -86.3006485"
+    },
+    "MO_Independent": {
+        "geoname": "Jefferson City, Missouri",
+        "latlong": "38.577359, -92.1724265"
+    },
+    "MSFreePress": {
+        "geoname": "Jackson, Mississippi",
+        "latlong": "32.3086744, -90.1983063"
+    },
+    "MSTODAYnews": {
+        "geoname": "Jackson, Mississippi",
+        "latlong": "32.3086744, -90.1983063"
+    },
+    "MVSNoticias": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "MaarivOnline": {
+        "geoname": "Tel Aviv, Israel",
+        "latlong": "32.0852997, 34.7818064"
+    },
+    "MailOnline": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "MansfieldNJ": {
+        "geoname": "Mansfield, Ohio",
+        "latlong": "40.75839, -82.5154471"
+    },
+    "MarfaRadio": {
+        "geoname": "Marfa, Texas",
+        "latlong": "30.3117621, -104.023146"
+    },
+    "Mediapart": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "Metropoles": {
+        "geoname": "Bras\u00edlia, Brazil",
+        "latlong": "-10.3333333, -53.2"
+    },
+    "Midnight_Sun_ak": {
+        "geoname": "Anchorage, Alaska",
+        "latlong": "61.2163129, -149.894852"
+    },
+    "Milenio": {
+        "geoname": "Monterrey, Mexico",
+        "latlong": "25.6802019, -100.315258"
+    },
+    "MinnPost": {
+        "geoname": "Minneapolis, Minnesota",
+        "latlong": "44.9772995, -93.2654692"
+    },
+    "MyDesert": {
+        "geoname": "Palm Springs, California",
+        "latlong": "33.7721794, -116.4952977"
+    },
+    "NAYA_PATRIKA": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "NBCConnecticut": {
+        "geoname": "West Hartford, Connecticut",
+        "latlong": "41.7620447, -72.7420399"
+    },
+    "NBCDFW": {
+        "geoname": "Dallas, Texas",
+        "latlong": "32.7762719, -96.7968559"
+    },
+    "NBCPhiladelphia": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "NBSunJournal": {
+        "geoname": "New Bern, North Carolina",
+        "latlong": "35.1084931, -77.0441143"
+    },
+    "NEheadlines": {
+        "geoname": "Hardin County, Kentucky",
+        "latlong": "37.6645815, -85.9634901"
+    },
+    "NHK_news": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "NJHerald": {
+        "geoname": "Newton, New Jersey",
+        "latlong": "41.0582103, -74.7530943"
+    },
+    "NRK": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "NY1": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "NYDailyNews": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "NYMag": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "NZStuff": {
+        "geoname": "Auckland, New Zealand",
+        "latlong": "-36.852095, 174.7631803"
+    },
+    "NebPublicMedia": {
+        "geoname": "Lincoln, Nebraska",
+        "latlong": "40.8088861, -96.7077751"
+    },
+    "Nepalkhabar24": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "Nettavisen": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "Netwerk24": {
+        "geoname": "Cape Town, South Africa",
+        "latlong": "-33.928992, 18.417396"
+    },
+    "NewStatesman": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "NewYorker": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "NewarkAdvocate": {
+        "geoname": "Newark, Ohio",
+        "latlong": "40.0581205, -82.4012643"
+    },
+    "News24": {
+        "geoname": "Cape Town, South Africa",
+        "latlong": "-33.928992, 18.417396"
+    },
+    "News3LV": {
+        "geoname": "Las Vegas, Nevada",
+        "latlong": "36.1672559, -115.148516"
+    },
+    "NewsChannelNE": {
+        "geoname": "Norfolk, Nebraska",
+        "latlong": "42.0283379, -97.4169964"
+    },
+    "NewsGorkhapatra": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "NewsLeaderNOW": {
+        "geoname": "Staunton, Virginia",
+        "latlong": "38.1495947, -79.072557"
+    },
+    "NewsTribune": {
+        "geoname": "Jefferson City, Missouri",
+        "latlong": "38.577359, -92.1724265"
+    },
+    "News_Letter": {
+        "geoname": "Belfast, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "54.596391, -5.9301829"
+    },
+    "Newsday": {
+        "geoname": "Long Island, New York state",
+        "latlong": "40.851497, -73.0994258"
+    },
+    "NiemanLab": {
+        "geoname": "Cambridge, Massachusetts",
+        "latlong": "42.3750997, -71.1056157"
+    },
+    "NorwichBulletin": {
+        "geoname": "Norwich, Connecticut",
+        "latlong": "41.5243537, -72.0759008"
+    },
+    "OCMediaorg": {
+        "geoname": "Tbilisi, Georgia",
+        "latlong": "41.6934591, 44.8014495"
+    },
+    "ORCapChronicle": {
+        "geoname": "Salem, Oregon",
+        "latlong": "44.9391565, -123.033121"
+    },
+    "OWHnews": {
+        "geoname": "Omaha, Nebraska",
+        "latlong": "41.2587459, -95.9383758"
+    },
+    "Oaklandside": {
+        "geoname": "Oakland, California",
+        "latlong": "37.8044557, -122.271356"
+    },
+    "OcalaStarBanner": {
+        "geoname": "Ocala, Florida",
+        "latlong": "29.1871986, -82.1400923"
+    },
+    "OldieMagazine": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "Online_khabar": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "OpenVallejo": {
+        "geoname": "Vallejo, California",
+        "latlong": "38.1040864, -122.2566367"
+    },
+    "Oregonian": {
+        "geoname": "Portland, Oregon",
+        "latlong": "45.5202471, -122.674194"
+    },
+    "OttumwaCourier": {
+        "geoname": "Ottumwa, Iowa",
+        "latlong": "41.0195659, -92.4116886"
+    },
+    "OxCIEJ": {
+        "geoname": "South Africa, South Africa",
+        "latlong": "-28.8166236, 24.991639"
+    },
+    "PONews": {
+        "geoname": "Chambersburg, Pennsylvania",
+        "latlong": "39.9405903, -77.6598624"
+    },
+    "Pajaropolitico": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "PatriotLedger": {
+        "geoname": "Quincy, Massachusetts",
+        "latlong": "42.2509914, -71.0037374"
+    },
+    "PekinDailyTimes": {
+        "geoname": "Pekin, Illinois",
+        "latlong": "40.5687911, -89.6501621"
+    },
+    "PeninsuPress": {
+        "geoname": "Palo Alto, California",
+        "latlong": "37.4443293, -122.1598465"
+    },
+    "PhillyInquirer": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "PhillyTrib": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "PioneerPress": {
+        "geoname": "St. Paul, Minnesota",
+        "latlong": "44.9497487, -93.0931028"
+    },
+    "PhoenixLUC": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "PoconoRecord": {
+        "geoname": "Stroudsburg, Pennsylvania",
+        "latlong": "40.9864261, -75.1946649"
+    },
+    "Poder360": {
+        "geoname": "Bras\u00edlia, Brazil",
+        "latlong": "-10.3333333, -53.2"
+    },
+    "PointReyesLight": {
+        "geoname": "Point Reyes, California",
+        "latlong": "37.9953181, -123.0234657"
+    },
+    "PokJournal": {
+        "geoname": "Poughkeepsie, New York state",
+        "latlong": "41.7065539, -73.9283672"
+    },
+    "PostCrescent": {
+        "geoname": "Appleton, Wisconsin",
+        "latlong": "44.2613967, -88.4069744"
+    },
+    "PressHerald": {
+        "geoname": "Portland, Maine",
+        "latlong": "43.6539391, -70.2912915"
+    },
+    "PrivateEyeNews": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "ProgressIndex": {
+        "geoname": "Petersburg, Virginia",
+        "latlong": "37.227928, -77.4019268"
+    },
+    "PublicOpinionSD": {
+        "geoname": "Watertown, Minnesota",
+        "latlong": "44.9636573, -93.8469916"
+    },
+    "Quillette": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "RFI": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "Rajdhani_daily": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "Rato_pati": {
+        "geoname": "Lalitpur, Nepal",
+        "latlong": "27.6676768, 85.3183919"
+    },
+    "RecordPub": {
+        "geoname": "Kent, Ohio",
+        "latlong": "41.1536674, -81.357886"
+    },
+    "Recordnet": {
+        "geoname": "Stockton, California",
+        "latlong": "37.9577016, -121.2907796"
+    },
+    "Reforma": {
+        "geoname": "Monterrey, Mexico",
+        "latlong": "25.6802019, -100.315258"
+    },
+    "Reporte_Indigo": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "ReporterNews": {
+        "geoname": "Abilene, Texas",
+        "latlong": "32.44645, -99.7475905"
+    },
+    "Reuters": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "RevistaISTOE": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "RuidosoNews": {
+        "geoname": "Ruidoso, New Mexico",
+        "latlong": "33.3315804, -105.6730991"
+    },
+    "SCSunNews": {
+        "geoname": "Silver City, New Mexico",
+        "latlong": "32.7751371, -108.2754371"
+    },
+    "SJRbreaking": {
+        "geoname": "Springfield, Illinois",
+        "latlong": "39.7990175, -89.6439575"
+    },
+    "SJSpotlight": {
+        "geoname": "San Jose, California",
+        "latlong": "37.3361663, -121.890591"
+    },
+    "SLTimes": {
+        "geoname": "Storm Lake, Iowa",
+        "latlong": "42.6452817, -95.1992726"
+    },
+    "SZ": {
+        "geoname": "M\u00fcnchen, Germany",
+        "latlong": "48.1371079, 11.5753822"
+    },
+    "SahanJournal": {
+        "geoname": "Minneapolis, Minnesota",
+        "latlong": "44.9772995, -93.2654692"
+    },
+    "Salem_Statesman": {
+        "geoname": "Salem, Oregon",
+        "latlong": "44.9391565, -123.033121"
+    },
+    "Sankei_news": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "SavannahNow": {
+        "geoname": "Savannah, Georgia",
+        "latlong": "32.0564572, -81.0951271"
+    },
+    "ScotNational": {
+        "geoname": "Scotland, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "56.7861112, -4.1140518"
+    },
+    "ScottishSun": {
+        "geoname": "Glasgow, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "55.8609825, -4.2488787"
+    },
+    "SearchlightNM": {
+        "geoname": "Sante Fe, New Mexico",
+        "latlong": "33.2887, -104.453653"
+    },
+    "SheboyganPress": {
+        "geoname": "Sheboygan, Wisconsin",
+        "latlong": "43.7128967, -87.9370433"
+    },
+    "ShinySheet": {
+        "geoname": "West Palm Beach, Florida",
+        "latlong": "26.715364, -80.0532942"
+    },
+    "SinEmbargoMX": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "Siskiyou_Daily": {
+        "geoname": "Yreka, California",
+        "latlong": "41.732616, -122.637766"
+    },
+    "SouthSideWeekly": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "SowetanLIVE": {
+        "geoname": "Johannesburg, South Africa",
+        "latlong": "-26.205, 28.049722"
+    },
+    "SpectrumNews": {
+        "geoname": "Salt Lake City, Utah",
+        "latlong": "40.7596198, -111.8867975"
+    },
+    "SpokesmanReview": {
+        "geoname": "Spokane, Washington",
+        "latlong": "47.6571934, -117.42351"
+    },
+    "SputnikInt": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "StamAdvocate": {
+        "geoname": "Stamford, Connecticut",
+        "latlong": "41.0534302, -73.5387341"
+    },
+    "StarAdvertiser": {
+        "geoname": "Honolulu, Hawaii",
+        "latlong": "21.304547, -157.855676"
+    },
+    "StarNewsOnline": {
+        "geoname": "Wilmington, North Carolina",
+        "latlong": "34.2257282, -77.9447107"
+    },
+    "StarTribune": {
+        "geoname": "Minneapolis, Minnesota",
+        "latlong": "44.9772995, -93.2654692"
+    },
+    "StevensPointJrl": {
+        "geoname": "Stevens Point, Wisconsin",
+        "latlong": "44.5229223, -89.574111"
+    },
+    "Suntimes": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "TCI_newsroom": {
+        "geoname": "Honesdale, Pennsylvania",
+        "latlong": "41.5767552, -75.2587871"
+    },
+    "TCPalm": {
+        "geoname": "Port St. Lucie, Florida",
+        "latlong": "27.2939333, -80.3503283"
+    },
+    "TDOnline": {
+        "geoname": "Tallahassee, Florida",
+        "latlong": "30.4380832, -84.2809332"
+    },
+    "THECITYNY": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "THV11": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "TOAcornNews": {
+        "geoname": "Thousand Oaks, California",
+        "latlong": "34.1705609, -118.8375937"
+    },
+    "TPRNews": {
+        "geoname": "San Antonio, Texas",
+        "latlong": "29.4246002, -98.4951405"
+    },
+    "TROhio": {
+        "geoname": "New Philadelphia, Ohio",
+        "latlong": "40.4897871, -81.4456706"
+    },
+    "TW_nextmedia": {
+        "geoname": "Taipei City, Taiwan",
+        "latlong": "25.0452747, 121.5078001"
+    },
+    "TauntonToGo": {
+        "geoname": "Taunton, Massachusetts",
+        "latlong": "41.9019257, -71.0931485"
+    },
+    "Telegraph": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "TelegraphHerald": {
+        "geoname": "Dubuque, Iowa",
+        "latlong": "42.5006243, -90.6647985"
+    },
+    "TelemundoCHI": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "Tennessean": {
+        "geoname": "Nashville, Tennessee",
+        "latlong": "36.1622767, -86.7742984"
+    },
+    "TexasMonthly": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "TexasObserver": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "TexasTribune": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "ThahaKhabar": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "TheAlligator": {
+        "geoname": "Gainesville, Florida",
+        "latlong": "29.6519684, -82.3249846"
+    },
+    "TheDailyRecord": {
+        "geoname": "Wooster, Ohio",
+        "latlong": "40.7980976, -81.9397733"
+    },
+    "TheDailyTimes": {
+        "geoname": "Farmington, New Mexico",
+        "latlong": "36.7291152, -108.205445"
+    },
+    "TheDePaulia": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "TheEconomist": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "TheGleanerNews": {
+        "geoname": "Henderson, Kentucky",
+        "latlong": "37.76721, -87.5573742"
+    },
+    "TheHawkEye": {
+        "geoname": "Burlington, Illinois",
+        "latlong": "42.0528038, -88.5481412"
+    },
+    "TheIntellNews": {
+        "geoname": "Doylestown, Pennsylvania",
+        "latlong": "40.3100446, -75.1304588"
+    },
+    "TheInterceptBr": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "TheJaxTrib": {
+        "geoname": "Jacksonville, Florida",
+        "latlong": "30.3321838, -81.655651"
+    },
+    "TheLeftBench": {
+        "geoname": "College Park, Maryland",
+        "latlong": "38.9904124, -76.9438586"
+    },
+    "TheMarionStar": {
+        "geoname": "Marion, Ohio",
+        "latlong": "40.5885271, -83.1895249"
+    },
+    "TheNewportDaily": {
+        "geoname": "Newport, Rhode Island",
+        "latlong": "41.5524614, -71.2703783"
+    },
+    "TheNewsPress": {
+        "geoname": "Fort Myers, Florida",
+        "latlong": "26.640628, -81.8723084"
+    },
+    "TheOklahoman_": {
+        "geoname": "Oklahoma City, Oklahoma",
+        "latlong": "35.4729886, -97.5170536"
+    },
+    "ThePerryChief": {
+        "geoname": "Perry, Iowa",
+        "latlong": "41.8386737, -94.1069211"
+    },
+    "ThePostRegister": {
+        "geoname": "Idaho Falls, Idaho",
+        "latlong": "43.4887907, -112.03628"
+    },
+    "ThePublicSource": {
+        "geoname": "Beirut, Lebanon",
+        "latlong": "33.8959203, 35.47843"
+    },
+    "TheRealNews": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "TheRioTimes": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "TheSAnews": {
+        "geoname": "Cape Town, South Africa",
+        "latlong": "-33.928992, 18.417396"
+    },
+    "TheScotsman": {
+        "geoname": "Scotland, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "56.7861112, -4.1140518"
+    },
+    "TheStarPress": {
+        "geoname": "Muncie, Indiana",
+        "latlong": "40.1936892, -85.3865271"
+    },
+    "TheSun": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "TheTRiiBE": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "TheTimes": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "TheVDT": {
+        "geoname": "Valdosta, Georgia",
+        "latlong": "30.8327022, -83.2784851"
+    },
+    "The_Daily_World": {
+        "geoname": "Opelousas, Louisiana",
+        "latlong": "30.5335302, -92.081509"
+    },
+    "The_News_Herald": {
+        "geoname": "Panama City, Florida",
+        "latlong": "30.1600827, -85.6545729"
+    },
+    "TiftonGazette1": {
+        "geoname": "Tifton, Georgia",
+        "latlong": "31.4549719, -83.5108284"
+    },
+    "TimesHerald": {
+        "geoname": "Newnan, Georgia",
+        "latlong": "33.3806716, -84.7996573"
+    },
+    "TimesLIVE": {
+        "geoname": "Johannesburg, South Africa",
+        "latlong": "-26.205, 28.049722"
+    },
+    "TimesRecord": {
+        "geoname": "Fort Smith, Oklahoma",
+        "latlong": "35.3970354, -94.4399375"
+    },
+    "TimesRecorder": {
+        "geoname": "Zanesville, Ohio",
+        "latlong": "39.9403453, -82.0131924"
+    },
+    "TimesTelegram": {
+        "geoname": "Utica, New York state",
+        "latlong": "43.1009031, -75.2326641"
+    },
+    "Times_Mail": {
+        "geoname": "Martinsville, Indiana",
+        "latlong": "39.4278253, -86.428328"
+    },
+    "TownTalkDotCom": {
+        "geoname": "Alexandria, Louisiana",
+        "latlong": "31.2909782, -92.4616292"
+    },
+    "TucsonSentinel": {
+        "geoname": "Tucson, Arizona",
+        "latlong": "32.2228765, -110.9748477"
+    },
+    "TucsonStar": {
+        "geoname": "Tucson, Arizona",
+        "latlong": "32.2228765, -110.9748477"
+    },
+    "Tylerpaper": {
+        "geoname": "Tyler, Texas",
+        "latlong": "32.3512601, -95.3010624"
+    },
+    "UHmallorca": {
+        "geoname": "Palma, Spain",
+        "latlong": "39.5813011, 2.7091834"
+    },
+    "UMD_SBS": {
+        "geoname": "College Park, Maryland",
+        "latlong": "38.9904124, -76.9438586"
+    },
+    "UOLNoticias": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "Ujyaalo": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "UvaldeNews": {
+        "geoname": "Uvalde, Texas",
+        "latlong": "29.300357, -99.7733181"
+    },
+    "VVDailyPress": {
+        "geoname": "Victorville, California",
+        "latlong": "34.5361067, -117.2911565"
+    },
+    "WALBNews10": {
+        "geoname": "Albany, Georgia",
+        "latlong": "31.5782062, -84.1556809"
+    },
+    "WBEZ": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "WBRCnews": {
+        "geoname": "Birmingham, Alabama",
+        "latlong": "33.5206824, -86.8024326"
+    },
+    "WBUR": {
+        "geoname": "Boston, Massachusetts",
+        "latlong": "42.3554334, -71.060511"
+    },
+    "WDRBNews": {
+        "geoname": "Louisville, Kentucky",
+        "latlong": "38.2542376, -85.759407"
+    },
+    "WFXL": {
+        "geoname": "Albany, Georgia",
+        "latlong": "31.5782062, -84.1556809"
+    },
+    "WGNNews": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "WHAS11": {
+        "geoname": "Louisville, Kentucky",
+        "latlong": "38.2542376, -85.759407"
+    },
+    "WHYYNews": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "WJBF": {
+        "geoname": "Augusta, Georgia",
+        "latlong": "33.4709714, -81.9748429"
+    },
+    "WKYT": {
+        "geoname": "Lexington, Kentucky",
+        "latlong": "38.0464066, -84.4970393"
+    },
+    "WNCN": {
+        "geoname": "Raleigh, North Carolina",
+        "latlong": "35.7803977, -78.6390989"
+    },
+    "WNYC": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "WOWT6News": {
+        "geoname": "Omaha, Nebraska",
+        "latlong": "41.2587459, -95.9383758"
+    },
+    "WRDW_WAGT": {
+        "geoname": "Augusta, Georgia",
+        "latlong": "33.4709714, -81.9748429"
+    },
+    "WSAV": {
+        "geoname": "Savannah, Georgia",
+        "latlong": "32.0564572, -81.0951271"
+    },
+    "WTEnews": {
+        "geoname": "Cheyenne, Wyoming",
+        "latlong": "41.139981, -104.820246"
+    },
+    "WTOC11": {
+        "geoname": "Savannah, Georgia",
+        "latlong": "32.0564572, -81.0951271"
+    },
+    "WTVM": {
+        "geoname": "Columbus, Georgia",
+        "latlong": "32.4610708, -84.9880449"
+    },
+    "WeeklyCitizen": {
+        "geoname": "Gonzales, Louisiana",
+        "latlong": "30.2328127, -90.9214386"
+    },
+    "WiStateJournal": {
+        "geoname": "Wisconsin, Wisconsin",
+        "latlong": "44.811349, -91.4984941"
+    },
+    "WickedLocal": {
+        "geoname": "Boston, Massachusetts",
+        "latlong": "42.3554334, -71.060511"
+    },
+    "YediotAhronot": {
+        "geoname": "Tel Aviv, Israel",
+        "latlong": "32.0852997, 34.7818064"
+    },
+    "fiquemsabendo": {
+        "geoname": "Sao Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "abc3340": {
+        "geoname": "Birmingham, Alabama",
+        "latlong": "33.5206824, -86.8024326"
+    },
+    "abc7breaking": {
+        "geoname": "El Paso, Texas",
+        "latlong": "31.7865623, -106.441207"
+    },
+    "abc7newsbayarea": {
+        "geoname": "San Francisco, California",
+        "latlong": "37.7790262, -122.419906"
+    },
+    "abc_es": {
+        "geoname": "Madrid, Spain",
+        "latlong": "40.4167047, -3.7035825"
+    },
+    "abcnews": {
+        "geoname": "Sydney, Australia",
+        "latlong": "-33.8698439, 151.2082848"
+    },
+    "abqbizfirst": {
+        "geoname": "Albuquerque, New Mexico",
+        "latlong": "35.2128709, -106.7132485"
+    },
+    "adndotcom": {
+        "geoname": "Anchorage, Alaska",
+        "latlong": "61.2163129, -149.894852"
+    },
+    "agenciabrasil": {
+        "geoname": "Bras\u00edlia, Brazil",
+        "latlong": "-10.3333333, -53.2"
+    },
+    "agenciapublica": {
+        "geoname": "Sao Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "ajc": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "alamogordonews": {
+        "geoname": "Alamogordo, New Mexico",
+        "latlong": "32.9046474, -105.941835"
+    },
+    "aldotcom": {
+        "geoname": "Montgomery, Alabama",
+        "latlong": "32.3669656, -86.3006485"
+    },
+    "alliancereview": {
+        "geoname": "Alliance, Ohio",
+        "latlong": "40.9153362, -81.1059309"
+    },
+    "amaBhungane": {
+        "geoname": "South Africa, South Africa",
+        "latlong": "-28.8166236, 24.991639"
+    },
+    "amarilloglobe": {
+        "geoname": "Amarillo, Texas",
+        "latlong": "35.2072185, -101.833824"
+    },
+    "amarujalanews": {
+        "geoname": "New Delhi, India",
+        "latlong": "28.6138954, 77.2090057"
+    },
+    "amazoniaagencia": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "anchoragepress": {
+        "geoname": "Anchorage, Alaska",
+        "latlong": "61.2163129, -149.894852"
+    },
+    "argusleader": {
+        "geoname": "Sioux Falls, Iowa",
+        "latlong": "43.21225, -93.08275"
+    },
+    "arthasarokar": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "asahi": {
+        "geoname": "Osaka, Japan",
+        "latlong": "34.661629, 135.4999268"
+    },
+    "asheville": {
+        "geoname": "Asheville, North Carolina",
+        "latlong": "35.6009498, -82.5540161"
+    },
+    "atarde": {
+        "geoname": "Bahia, Brazil",
+        "latlong": "-12.285251, -41.9294776"
+    },
+    "atlciviccircle": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "avherald": {
+        "geoname": "Austria, Austria",
+        "latlong": "47.59397, 14.12456"
+    },
+    "azcentral": {
+        "geoname": "Phoenix, Arizona",
+        "latlong": "33.4484367, -112.074141"
+    },
+    "azds": {
+        "geoname": "Flagstaff, Arizona",
+        "latlong": "35.1816047, -111.6165953"
+    },
+    "badger_project_": {
+        "geoname": "Madison, Wisconsin",
+        "latlong": "43.074761, -89.3837613"
+    },
+    "baltbeat": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "baltfishbowl": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "baltimoresun": {
+        "geoname": "Baltimore, Maryland",
+        "latlong": "39.2908816, -76.610759"
+    },
+    "bangordailynews": {
+        "geoname": "Bangor, Maine",
+        "latlong": "44.8259002, -68.7430605"
+    },
+    "baynature": {
+        "geoname": "Berkeley, California",
+        "latlong": "37.8753497, -122.2396336"
+    },
+    "bbc": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "bcenquirer": {
+        "geoname": "Battle Creek, Michigan",
+        "latlong": "42.3192548, -85.1824269"
+    },
+    "bcn_foundation": {
+        "geoname": "Berkeley, California",
+        "latlong": "37.8753497, -122.2396336"
+    },
+    "bctimes": {
+        "geoname": "Beaver, Pennsylvania",
+        "latlong": "40.6916624, -80.3709999"
+    },
+    "beaconjournal": {
+        "geoname": "Akron, Ohio",
+        "latlong": "41.083064, -81.518485"
+    },
+    "bellingcat": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "bfp_news": {
+        "geoname": "Burlington, Vermont",
+        "latlong": "44.4761601, -73.212906"
+    },
+    "bgdailynews": {
+        "geoname": "Bowling Green, Kentucky",
+        "latlong": "36.9903199, -86.4436018"
+    },
+    "billingsgazette": {
+        "geoname": "Billings, Montana",
+        "latlong": "45.7874957, -108.49607"
+    },
+    "billy_penn": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "bistrib": {
+        "geoname": "Bismarck, North Dakota",
+        "latlong": "46.808327, -100.783739"
+    },
+    "bklyner": {
+        "geoname": "Brooklyn, New York state",
+        "latlong": "40.6526006, -73.9497211"
+    },
+    "bloombergjapan": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "bosbizjournal": {
+        "geoname": "Boston, Massachusetts",
+        "latlong": "42.3554334, -71.060511"
+    },
+    "brooklynpaper": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "btno": {
+        "geoname": "Bergen, Norway",
+        "latlong": "60.3943055, 5.3259192"
+    },
+    "calgaryherald": {
+        "geoname": "Calgary, Canada",
+        "latlong": "51.0460954, -114.065465"
+    },
+    "callerdotcom": {
+        "geoname": "Corpus Christi, Texas",
+        "latlong": "27.7635302, -97.4033191"
+    },
+    "canopyatl": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "capecodtimes": {
+        "geoname": "Hyannis, Massachusetts",
+        "latlong": "41.6534847, -70.2823732"
+    },
+    "capgaznews": {
+        "geoname": "Annapolis, Maryland",
+        "latlong": "38.9786401, -76.492786"
+    },
+    "capitalandmain": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "cbcnews": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "cbs46": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "cbschicago": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "chess24com": {
+        "geoname": "Hamburg, Germany",
+        "latlong": "53.550341, 10.000654"
+    },
+    "chicagotribune": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "chinatimes": {
+        "geoname": "Taipei City, Taiwan",
+        "latlong": "25.0452747, 121.5078001"
+    },
+    "chunichi_denhen": {
+        "geoname": "Nagoya, Japan",
+        "latlong": "35.1851045, 136.8998438"
+    },
+    "citylimitsnews": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "civio": {
+        "geoname": "Madrid, Spain",
+        "latlong": "40.4167047, -3.7035825"
+    },
+    "clarincom": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "clarionledger": {
+        "geoname": "Jackson, Mississippi",
+        "latlong": "32.3086744, -90.1983063"
+    },
+    "colabnewsco": {
+        "geoname": "Denver, Colorado",
+        "latlong": "39.7392364, -104.984862"
+    },
+    "coloradoan": {
+        "geoname": "Fort Collins, Colorado",
+        "latlong": "40.5508527, -105.0668085"
+    },
+    "columbiatribune": {
+        "geoname": "Columbia, Missouri",
+        "latlong": "38.951883, -92.3337366"
+    },
+    "connpost": {
+        "geoname": "Bridgeport, Connecticut",
+        "latlong": "41.1670412, -73.2048348"
+    },
+    "correio": {
+        "geoname": "Bras\u00edlia, Brazil",
+        "latlong": "-10.3333333, -53.2"
+    },
+    "coshtribune": {
+        "geoname": "Coshocton, Ohio",
+        "latlong": "40.2905684, -81.9271441"
+    },
+    "courierjournal": {
+        "geoname": "Louisville, Kentucky",
+        "latlong": "38.2542376, -85.759407"
+    },
+    "courierpress": {
+        "geoname": "Evansville, Illinois",
+        "latlong": "38.0903289, -89.9384406"
+    },
+    "cpsj": {
+        "geoname": "Cherry Hill, New Jersey",
+        "latlong": "39.9348351, -75.0307264"
+    },
+    "crikey_news": {
+        "geoname": "Melbourne, Australia",
+        "latlong": "-37.8142176, 144.9631608"
+    },
+    "cronica": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "csgazette": {
+        "geoname": "Colorado Springs, Colorado",
+        "latlong": "38.8339578, -104.825348"
+    },
+    "ctmirror": {
+        "geoname": "Hartford, Connecticut",
+        "latlong": "41.764582, -72.6908547"
+    },
+    "ctvnews": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "cuestion_p": {
+        "geoname": "Bogat\u00e1, Colombia",
+        "latlong": "4.7619657, -74.0453134"
+    },
+    "dagbladet": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "dailyamerican": {
+        "geoname": "Somerset, Pennsylvania",
+        "latlong": "39.9980022, -79.0415528"
+    },
+    "dailycamera": {
+        "geoname": "Boulder, Colorado",
+        "latlong": "40.0149856, -105.270545"
+    },
+    "dailycommercial": {
+        "geoname": "Leesburg, Florida",
+        "latlong": "28.810823, -81.8778582"
+    },
+    "dailyecho": {
+        "geoname": "Southampton, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "50.9025349, -1.404189"
+    },
+    "dailyherald": {
+        "geoname": "Arlington, Illinois",
+        "latlong": "41.4736452, -89.2492531"
+    },
+    "dailymaverick": {
+        "geoname": "Johannesburg, South Africa",
+        "latlong": "-26.205, 28.049722"
+    },
+    "dailymirror": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "dailypenn": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "dailyrecord": {
+        "geoname": "Morristown, New Jersey",
+        "latlong": "40.7970382, -74.4809868"
+    },
+    "dailysunsa": {
+        "geoname": "SunLand, South Africa",
+        "latlong": "-33.50526, 25.6269"
+    },
+    "dailytarheel": {
+        "geoname": "Chapel Hill, North Carolina",
+        "latlong": "35.9131542, -79.05578"
+    },
+    "dainik_online": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "dallasfreepress": {
+        "geoname": "Dallas, Texas",
+        "latlong": "32.7762719, -96.7968559"
+    },
+    "dallasnews": {
+        "geoname": "Dallas, Texas",
+        "latlong": "32.7762719, -96.7968559"
+    },
+    "dbnewsjournal": {
+        "geoname": "Daytona Beach, Florida",
+        "latlong": "29.2108147, -81.0228331"
+    },
+    "dcnepal": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "delawareonline": {
+        "geoname": "Wilmington, Delaware",
+        "latlong": "39.7459468, -75.546589"
+    },
+    "demingheadlight": {
+        "geoname": "Deming, New Mexico",
+        "latlong": "32.2627416, -107.7581979"
+    },
+    "denverpost": {
+        "geoname": "Denver, Colorado",
+        "latlong": "39.7392364, -104.984862"
+    },
+    "derspiegel": {
+        "geoname": "Hamburg, Germany",
+        "latlong": "53.550341, 10.000654"
+    },
+    "deshsanchar1": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "devilslakenews": {
+        "geoname": "Devils Lake, North Dakota",
+        "latlong": "48.112779, -98.86512"
+    },
+    "diarioonline": {
+        "geoname": "America/Sao_Paulo, Brazil",
+        "latlong": "-22.4446853, -49.1697659"
+    },
+    "diariopopularRS": {
+        "geoname": "Pelotas, Brazil",
+        "latlong": "-31.7699736, -52.3410161"
+    },
+    "dnj_com": {
+        "geoname": "Murfreesboro, Tennessee",
+        "latlong": "35.8460396, -86.3921096"
+    },
+    "documentedny": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "doorcountyknock": {
+        "geoname": "Egg Harbor, Wisconsin",
+        "latlong": "45.0463808, -87.2970501"
+    },
+    "dvillechief": {
+        "geoname": "Donaldsonville, Louisiana",
+        "latlong": "30.0993657, -91.0037109"
+    },
+    "dwnews": {
+        "geoname": "Bonn, Germany",
+        "latlong": "50.735851, 7.10066"
+    },
+    "eNCA": {
+        "geoname": "Johannesburg, South Africa",
+        "latlong": "-26.205, 28.049722"
+    },
+    "echopilot": {
+        "geoname": "Greencastle, Pennsylvania",
+        "latlong": "39.790371, -77.7277714"
+    },
+    "ek_business": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "el_pais": {
+        "geoname": "Madrid, Spain",
+        "latlong": "40.4167047, -3.7035825"
+    },
+    "el_timpano": {
+        "geoname": "Oakland, California",
+        "latlong": "37.8044557, -122.271356"
+    },
+    "elcorreo_com": {
+        "geoname": "Bilbao, Spain",
+        "latlong": "43.2630018, -2.9350039"
+    },
+    "elmundoes": {
+        "geoname": "Madrid, Spain",
+        "latlong": "40.4167047, -3.7035825"
+    },
+    "elpaisuy": {
+        "geoname": "Montevideo, Uruguay",
+        "latlong": "-34.9058916, -56.1913095"
+    },
+    "elpasomatters": {
+        "geoname": "El Paso, Texas",
+        "latlong": "31.7865623, -106.441207"
+    },
+    "elpasotimes": {
+        "geoname": "ElPaso, Texas",
+        "latlong": "31.7865623, -106.441207"
+    },
+    "elperiodico": {
+        "geoname": "Barcelona, Spain",
+        "latlong": "41.3828939, 2.1774322"
+    },
+    "em_com": {
+        "geoname": "Belo Horizonte, Brazil",
+        "latlong": "-19.9225776, -43.9451356"
+    },
+    "enewsofnepal": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "enterprisenews": {
+        "geoname": "Brockton, Massachusetts",
+        "latlong": "42.0834335, -71.0183787"
+    },
+    "ewnreporter": {
+        "geoname": "Johannesburg, South Africa",
+        "latlong": "-26.205, 28.049722"
+    },
+    "fayobserver": {
+        "geoname": "Fayetteville, North Carolina",
+        "latlong": "35.0525759, -78.878292"
+    },
+    "fdlreporter": {
+        "geoname": "Fond Du Lac, Wisconsin",
+        "latlong": "43.7533414, -88.4493796"
+    },
+    "financialpost": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "flatwaterfreep": {
+        "geoname": "Omaha, Nebraska",
+        "latlong": "41.2587459, -95.9383758"
+    },
+    "folha": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "fox12oregon": {
+        "geoname": "Beaverton, Oregon",
+        "latlong": "45.4871723, -122.80378"
+    },
+    "fox5ny": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "franceinfo": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "frednewspost": {
+        "geoname": "Frederick, Maryland",
+        "latlong": "39.415779, -77.4127562"
+    },
+    "freep": {
+        "geoname": "Detroit, Michigan",
+        "latlong": "42.3315509, -83.0466403"
+    },
+    "fremontNM": {
+        "geoname": "Fremont, Ohio",
+        "latlong": "41.3473413, -83.1134972"
+    },
+    "ft": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "g1": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "gadsdentimes": {
+        "geoname": "Gadsden, Alabama",
+        "latlong": "34.010929, -85.9989596"
+    },
+    "gardner_news": {
+        "geoname": "Gardner, Massachusetts",
+        "latlong": "42.5763523, -71.9952737"
+    },
+    "gastongazette": {
+        "geoname": "Gastonia, North Carolina",
+        "latlong": "35.2622654, -81.1838186"
+    },
+    "gazetadopovo": {
+        "geoname": "Curitiba, Brazil",
+        "latlong": "-25.4295963, -49.2712724"
+    },
+    "gazetaru": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "gazettedotcom": {
+        "geoname": "Cedar Rapids, Iowa",
+        "latlong": "41.9758872, -91.6704053"
+    },
+    "gbpressgazette": {
+        "geoname": "Green Bay, Wisconsin",
+        "latlong": "44.5126379, -88.0125794"
+    },
+    "georgiastraight": {
+        "geoname": "Vancouver, Canada",
+        "latlong": "49.2608724, -123.113952"
+    },
+    "gfherald": {
+        "geoname": "Grand Forks, North Dakota",
+        "latlong": "47.9078244, -97.0592028"
+    },
+    "gigharbornow": {
+        "geoname": "Gig Harbor, Washington",
+        "latlong": "47.3259697, -122.5878659"
+    },
+    "globalnews": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "globeandmail": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "gosanangelo": {
+        "geoname": "San Angelo, Texas",
+        "latlong": "31.4649685, -100.4405094"
+    },
+    "gpbnews": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "gradynewsource": {
+        "geoname": "Athens, Georgia",
+        "latlong": "33.9597677, -83.376398"
+    },
+    "guardian": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "hartfordcourant": {
+        "geoname": "Hartford, Connecticut",
+        "latlong": "41.764582, -72.6908547"
+    },
+    "hburgamerican": {
+        "geoname": "Hattiesburg, Mississippi",
+        "latlong": "31.3271189, -89.2903392"
+    },
+    "heraldscotland": {
+        "geoname": "Scotland, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "56.7861112, -4.1140518"
+    },
+    "htrnews": {
+        "geoname": "Manitowoc, Wisconsin",
+        "latlong": "44.0998341, -87.827992"
+    },
+    "humansofny": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "hwherald": {
+        "geoname": "Harvey, Illinois",
+        "latlong": "41.6100344, -87.6467132"
+    },
+    "ilisolezwe": {
+        "geoname": "East London, South Africa",
+        "latlong": "-33.0191604, 27.8998573"
+    },
+    "imagekhabar": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "independentmail": {
+        "geoname": "Anderson, Georgia",
+        "latlong": "32.3445916, -84.91604"
+    },
+    "indystar": {
+        "geoname": "Indianapolis, Indiana",
+        "latlong": "39.7683331, -86.1583502"
+    },
+    "inewsource": {
+        "geoname": "San Diego, California",
+        "latlong": "32.7174202, -117.1627728"
+    },
+    "injusticewatch": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "irishexaminer": {
+        "geoname": "Dublin, Ireland",
+        "latlong": "53.3498006, -6.2602964"
+    },
+    "ithacajournal": {
+        "geoname": "Ithaca, New York state",
+        "latlong": "42.4396039, -76.4968019"
+    },
+    "izvestia_ru": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "jaxdotcom": {
+        "geoname": "Jacksonville, Florida",
+        "latlong": "30.3321838, -81.655651"
+    },
+    "jconline": {
+        "geoname": "Lafayette, Indiana",
+        "latlong": "40.4167022, -86.8752869"
+    },
+    "jdemontreal": {
+        "geoname": "Montreal, Canada",
+        "latlong": "45.5031824, -73.5698065"
+    },
+    "jijicom": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "johncombest": {
+        "geoname": "Jefferson City, Missouri",
+        "latlong": "38.577359, -92.1724265"
+    },
+    "jornaloglobo": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "journalsentinel": {
+        "geoname": "Milwaukee, Wisconsin",
+        "latlong": "43.0349931, -87.922497"
+    },
+    "journalstandard": {
+        "geoname": "Freeport, Illinois",
+        "latlong": "42.2966861, -89.6212271"
+    },
+    "karobar_daily": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "kcautv": {
+        "geoname": "Sioux City, Iowa",
+        "latlong": "42.4966815, -96.4058782"
+    },
+    "kcrw": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "kcur": {
+        "geoname": "Kansas City, Missouri",
+        "latlong": "39.100105, -94.5781416"
+    },
+    "kerrville": {
+        "geoname": "Kerrville, Texas",
+        "latlong": "30.048469, -99.1399464"
+    },
+    "khabarkendra": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "kinstonfp": {
+        "geoname": "Kinston, North Carolina",
+        "latlong": "35.2626635, -77.5816353"
+    },
+    "knoxnews": {
+        "geoname": "Knoxville, Tennessee",
+        "latlong": "35.9603948, -83.9210261"
+    },
+    "knprnews": {
+        "geoname": "Las Vegas, Nevada",
+        "latlong": "36.1672559, -115.148516"
+    },
+    "kpbs": {
+        "geoname": "San Diego, California",
+        "latlong": "32.7174202, -117.1627728"
+    },
+    "kpcc": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "kuarpublicradio": {
+        "geoname": "Little Rock, Arkansas",
+        "latlong": "34.7465071, -92.2896267"
+    },
+    "kyivindependent": {
+        "geoname": "Kiev, Ukraine",
+        "latlong": "50.4500336, 30.5241361"
+    },
+    "laist": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "lajornadaonline": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "lancenet": {
+        "geoname": "Rio de Janeiro, Brazil",
+        "latlong": "-22.9110137, -43.2093727"
+    },
+    "lanuevaespana": {
+        "geoname": "Oviedo, Spain",
+        "latlong": "43.3604218, -5.8450534"
+    },
+    "laopinioncoruna": {
+        "geoname": "A Coru\u00f1a, Spain",
+        "latlong": "43.3709703, -8.3959425"
+    },
+    "larazon_es": {
+        "geoname": "Madrid, Spain",
+        "latlong": "40.4167047, -3.7035825"
+    },
+    "latimes": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "lavozdegalicia": {
+        "geoname": "A Coru\u00f1a, Spain",
+        "latlong": "43.3709703, -8.3959425"
+    },
+    "le_Parisien": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "leadertelegram": {
+        "geoname": "Eau Claire, Wisconsin",
+        "latlong": "44.811349, -91.4984941"
+    },
+    "ledevoir": {
+        "geoname": "Montreal, Canada",
+        "latlong": "45.5031824, -73.5698065"
+    },
+    "lemondefr": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "lentaruofficial": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "lesoir": {
+        "geoname": "Brussels, Belgium",
+        "latlong": "50.8465573, 4.351697"
+    },
+    "lexdispatch": {
+        "geoname": "Lexington, North Carolina",
+        "latlong": "35.8240265, -80.2533838"
+    },
+    "libe": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "lobs": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "lohud": {
+        "geoname": "White Plains, New York state",
+        "latlong": "41.0339862, -73.7629097"
+    },
+    "lokpath": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "lookoutscruz": {
+        "geoname": "Santa Cruz, California",
+        "latlong": "37.050096, -121.9905908"
+    },
+    "lp_lapresse": {
+        "geoname": "Montreal, Canada",
+        "latlong": "45.5031824, -73.5698065"
+    },
+    "ltntw": {
+        "geoname": "Taipei City, Taiwan",
+        "latlong": "25.0452747, 121.5078001"
+    },
+    "lubbockonline": {
+        "geoname": "Lubbock, Texas",
+        "latlong": "33.5635206, -101.879336"
+    },
+    "mailandguardian": {
+        "geoname": "Johannesburg, South Africa",
+        "latlong": "-26.205, 28.049722"
+    },
+    "maroelamedia": {
+        "geoname": "Centurion, South Africa",
+        "latlong": "-25.836389, 28.180278"
+    },
+    "marylandmatters": {
+        "geoname": "Takoma Park, Maryland",
+        "latlong": "38.9778882, -77.0074765"
+    },
+    "mcgilldaily": {
+        "geoname": "Montreal, Canada",
+        "latlong": "45.5031824, -73.5698065"
+    },
+    "mdjonline": {
+        "geoname": "Marietta, Georgia",
+        "latlong": "33.9528472, -84.5496148"
+    },
+    "meduzaproject": {
+        "geoname": "Riga, Latvia",
+        "latlong": "56.9493977, 24.1051846"
+    },
+    "memphisnews": {
+        "geoname": "Memphis, Mississippi",
+        "latlong": "35.1596395, -90.0497678"
+    },
+    "mercnews": {
+        "geoname": "San Jose, California",
+        "latlong": "37.3361663, -121.890591"
+    },
+    "metrowestdaily": {
+        "geoname": "Framingham, Massachusetts",
+        "latlong": "42.2773177, -71.4165905"
+    },
+    "milforddaily": {
+        "geoname": "Milford, Massachusetts",
+        "latlong": "42.1413353, -71.5192019"
+    },
+    "missoulian": {
+        "geoname": "Missoula, Montana",
+        "latlong": "46.8701049, -113.995267"
+    },
+    "miwisconsin": {
+        "geoname": "Madison, Wisconsin",
+        "latlong": "43.074761, -89.3837613"
+    },
+    "mlnow": {
+        "geoname": "San Francisco, California",
+        "latlong": "37.7790262, -122.419906"
+    },
+    "mnherald": {
+        "geoname": "Marshfield, Wisconsin",
+        "latlong": "44.6688524, -90.1717987"
+    },
+    "mtlgazette": {
+        "geoname": "Montreal, Canada",
+        "latlong": "45.5031824, -73.5698065"
+    },
+    "mtshastanews": {
+        "geoname": "Mt. Shasta, California",
+        "latlong": "41.4091897, -122.194953"
+    },
+    "mwtnews": {
+        "geoname": "Midland, Texas",
+        "latlong": "31.9973662, -102.077948"
+    },
+    "mydelmarvanow": {
+        "geoname": "Salisbury, Virginia",
+        "latlong": "37.6076317, -79.7822658"
+    },
+    "nagarik_news": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "nationalpost": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "nbcbayarea": {
+        "geoname": "San Francisco, California",
+        "latlong": "37.7790262, -122.419906"
+    },
+    "nbcchicago": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "ndn": {
+        "geoname": "Naples, Florida",
+        "latlong": "26.1421976, -81.7942944"
+    },
+    "newscientist": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "newsminer": {
+        "geoname": "Fairbanks, Alaska",
+        "latlong": "64.837845, -147.716675"
+    },
+    "newspressnow": {
+        "geoname": "St. Joseph, Missouri",
+        "latlong": "39.7686055, -94.8466322"
+    },
+    "newsrepublican": {
+        "geoname": "Boone, Iowa",
+        "latlong": "42.0171798, -93.9254114"
+    },
+    "nextcityorg": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "nhpr": {
+        "geoname": "Manchester, New Hampshire",
+        "latlong": "42.9956397, -71.4547891"
+    },
+    "nhregister": {
+        "geoname": "New Haven, Connecticut",
+        "latlong": "41.3082138, -72.9250518"
+    },
+    "nikkei": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "northjersey": {
+        "geoname": "Hackensack, New Jersey",
+        "latlong": "40.8871438, -74.0410865"
+    },
+    "novayagazeta_eu": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "ntdaily": {
+        "geoname": "Denton, Texas",
+        "latlong": "33.1838787, -97.1413417"
+    },
+    "nwademgaz": {
+        "geoname": "Fayetteville, Arkansas",
+        "latlong": "36.0625843, -94.1574328"
+    },
+    "nwfdailynews": {
+        "geoname": "Fort Walton Beach, Florida",
+        "latlong": "30.4057552, -86.618842"
+    },
+    "nypost": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "nysfocus": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "nytimes": {
+        "geoname": "New York City, New York state",
+        "latlong": "40.7127281, -74.0060152"
+    },
+    "nzherald": {
+        "geoname": "Auckland, New Zealand",
+        "latlong": "-36.852095, 174.7631803"
+    },
+    "o_antagonista": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "observatorio": {
+        "geoname": "Campinas, Brazil",
+        "latlong": "-22.90556, -47.06083"
+    },
+    "occrp": {
+        "geoname": "Sarajevo, Bosnia and Herzegovina",
+        "latlong": "43.8519774, 18.3866868"
+    },
+    "ocregister": {
+        "geoname": "Anaheim, California",
+        "latlong": "33.8347516, -117.911732"
+    },
+    "oglethorpe_echo": {
+        "geoname": "Oglethorpe, Georgia",
+        "latlong": "33.8702684, -83.1049381"
+    },
+    "omelete": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "onlineathens": {
+        "geoname": "Athens, Georgia",
+        "latlong": "33.9597677, -83.376398"
+    },
+    "onwnews": {
+        "geoname": "Oshkosh, Wisconsin",
+        "latlong": "44.0206919, -88.5408574"
+    },
+    "opovo": {
+        "geoname": "Fortaleza, Brazil",
+        "latlong": "-3.7304512, -38.5217989"
+    },
+    "osnepalnews": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "ottawacitizen": {
+        "geoname": "Ottawa, Canada",
+        "latlong": "45.4208777, -75.6901106"
+    },
+    "pagina12": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "parisreview": {
+        "geoname": "Paris, France",
+        "latlong": "48.8588897, 2.320041"
+    },
+    "pbpost": {
+        "geoname": "West Palm Beach, Florida",
+        "latlong": "26.715364, -80.0532942"
+    },
+    "pcnewsherald": {
+        "geoname": "Port Clinton, Ohio",
+        "latlong": "41.5119954, -82.9376919"
+    },
+    "perfilcom": {
+        "geoname": "Buenos Aires, Argentina",
+        "latlong": "-34.6075682, -58.4370894"
+    },
+    "petoskeynews": {
+        "geoname": "Petoskey, Michigan",
+        "latlong": "45.373343, -84.95533"
+    },
+    "pi_news": {
+        "geoname": "Richmond, Ohio",
+        "latlong": "40.4333996, -80.7717478"
+    },
+    "pitchfork": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "pittsburghpg": {
+        "geoname": "Pittsburgh, Pennsylvania",
+        "latlong": "40.4416941, -79.9900861"
+    },
+    "pjstar": {
+        "geoname": "Peoria, Illinois",
+        "latlong": "40.6938609, -89.5891008"
+    },
+    "pnj": {
+        "geoname": "Pensacola, Florida",
+        "latlong": "30.421309, -87.2169149"
+    },
+    "populardiario": {
+        "geoname": "Sarandi, Argentina",
+        "latlong": "-34.680758, -58.3463289"
+    },
+    "portalimprensa": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "portlandmercury": {
+        "geoname": "Portland, Oregon",
+        "latlong": "45.5202471, -122.674194"
+    },
+    "prabhatkhabar": {
+        "geoname": "Ranchi, India",
+        "latlong": "23.3700501, 85.3250387"
+    },
+    "prensagrafica": {
+        "geoname": "San Salvador, El Salvador",
+        "latlong": "13.6989939, -89.1914249"
+    },
+    "presscitizen": {
+        "geoname": "Iowa City, Iowa",
+        "latlong": "41.6612561, -91.5299106"
+    },
+    "pressconnects": {
+        "geoname": "Binghamton, Pennsylvania",
+        "latlong": "41.9219491, -76.0470344"
+    },
+    "pressenterprise": {
+        "geoname": "Riverside, California",
+        "latlong": "33.9533546, -117.3961623"
+    },
+    "proceso": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "progressoms": {
+        "geoname": "Dourados, Brazil",
+        "latlong": "-22.2206145, -54.812208"
+    },
+    "projo": {
+        "geoname": "Providence, Rhode Island",
+        "latlong": "41.8239891, -71.4128343"
+    },
+    "punjabkesari": {
+        "geoname": "Jalandhar, India",
+        "latlong": "31.2920107, 75.5680577"
+    },
+    "qctimes": {
+        "geoname": "Davenport, Iowa",
+        "latlong": "41.5235808, -90.5770967"
+    },
+    "quintoelab": {
+        "geoname": "Mexico City, Mexico",
+        "latlong": "19.4326296, -99.1331785"
+    },
+    "reckonnews": {
+        "geoname": "Montgomery, Alabama",
+        "latlong": "32.3669656, -86.3006485"
+    },
+    "recordonline": {
+        "geoname": "Middletown, New York state",
+        "latlong": "40.8397222, -73.8316667"
+    },
+    "registerguard": {
+        "geoname": "Eugene, Oregon",
+        "latlong": "44.0505054, -123.0950506"
+    },
+    "repubblica": {
+        "geoname": "Rome, Italy",
+        "latlong": "41.8933203, 12.4829321"
+    },
+    "reviewjournal": {
+        "geoname": "Las Vegas, Nevada",
+        "latlong": "36.1672559, -115.148516"
+    },
+    "revistapiaui": {
+        "geoname": "S\u00e3o Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "rgj": {
+        "geoname": "Reno, Nevada",
+        "latlong": "39.5261206, -119.8126581"
+    },
+    "rgvfox": {
+        "geoname": "McAllen, Texas",
+        "latlong": "26.204114, -98.2300605"
+    },
+    "rianru": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "rnz_news": {
+        "geoname": "Wellington, New Zealand",
+        "latlong": "-41.2887953, 174.7772114"
+    },
+    "romenewstribune": {
+        "geoname": "Rome, Georgia",
+        "latlong": "34.257038, -85.1646726"
+    },
+    "rpbreakingnews": {
+        "geoname": "Jaipur, India",
+        "latlong": "26.9154576, 75.8189817"
+    },
+    "rt_com": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "rtenews": {
+        "geoname": "Dublin, Ireland",
+        "latlong": "53.3498006, -6.2602964"
+    },
+    "salinajournal": {
+        "geoname": "Salina, Kansas",
+        "latlong": "38.8402805, -97.6114237"
+    },
+    "salnews": {
+        "geoname": "Salinas, California",
+        "latlong": "36.6744117, -121.655037"
+    },
+    "sbtnews": {
+        "geoname": "Osasco, Brazil",
+        "latlong": "-23.5324859, -46.7916801"
+    },
+    "scsentinel": {
+        "geoname": "Santa Cruz, California",
+        "latlong": "37.050096, -121.9905908"
+    },
+    "sctimes": {
+        "geoname": "St. Cloud, Minnesota",
+        "latlong": "45.5616075, -94.1642004"
+    },
+    "sdut": {
+        "geoname": "San Diego, California",
+        "latlong": "32.7174202, -117.1627728"
+    },
+    "seacoastonline": {
+        "geoname": "Portsmouth, Maine",
+        "latlong": "45.5880209, -122.7194413"
+    },
+    "seattletimes": {
+        "geoname": "Seattle, Washington",
+        "latlong": "47.6038321, -122.330062"
+    },
+    "segodnya_online": {
+        "geoname": "Kiev, Ukraine",
+        "latlong": "50.4500336, 30.5241361"
+    },
+    "seikyoofficial": {
+        "geoname": "Tokyo, Japan",
+        "latlong": "35.6828387, 139.7594549"
+    },
+    "setopati": {
+        "geoname": "Kathmandu, Nepal",
+        "latlong": "27.708317, 85.3205817"
+    },
+    "sfchronicle": {
+        "geoname": "San Francisco, California",
+        "latlong": "37.7790262, -122.419906"
+    },
+    "sgfcitizen": {
+        "geoname": "Springfield, Missouri",
+        "latlong": "37.1968298, -93.2946576"
+    },
+    "shelbystar": {
+        "geoname": "Shelby, North Carolina",
+        "latlong": "35.2923513, -81.5356463"
+    },
+    "shreveporttimes": {
+        "geoname": "Shreveport, Louisiana",
+        "latlong": "32.514349, -93.754477"
+    },
+    "simple_flying": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "sltrib": {
+        "geoname": "Salt Lake City, Utah",
+        "latlong": "40.7596198, -111.8867975"
+    },
+    "source_nm": {
+        "geoname": "Sante Fe, New Mexico",
+        "latlong": "33.2887, -104.453653"
+    },
+    "southcoasttoday": {
+        "geoname": "New Bedford, Massachusetts",
+        "latlong": "41.6362152, -70.934205"
+    },
+    "spectator": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "springfieldNL": {
+        "geoname": "Springfield, Missouri",
+        "latlong": "37.1968298, -93.2946576"
+    },
+    "stargazette": {
+        "geoname": "Elmira, Pennsylvania",
+        "latlong": "41.0585351, -75.7751739"
+    },
+    "statejournal": {
+        "geoname": "Frankfort, Kentucky",
+        "latlong": "38.2009055, -84.8732836"
+    },
+    "statesman": {
+        "geoname": "Austin, Texas",
+        "latlong": "30.2711286, -97.7436995"
+    },
+    "staugrecord": {
+        "geoname": "St. Augustine, Florida",
+        "latlong": "29.8946952, -81.3145395"
+    },
+    "sternde": {
+        "geoname": "Hamburg, Germany",
+        "latlong": "53.550341, 10.000654"
+    },
+    "stlpublicradio": {
+        "geoname": "St. Louis, Missouri",
+        "latlong": "38.6319657, -90.2428756"
+    },
+    "stltoday": {
+        "geoname": "St. Louis, Missouri",
+        "latlong": "38.6319657, -90.2428756"
+    },
+    "sturgisnewsroom": {
+        "geoname": "Sturgis, Michigan",
+        "latlong": "41.799217, -85.4191482"
+    },
+    "tass_agency": {
+        "geoname": "Moscow, Russian Federation",
+        "latlong": "55.7504461, 37.6174943"
+    },
+    "tb_times": {
+        "geoname": "Tampa, Florida",
+        "latlong": "27.9477595, -82.458444"
+    },
+    "telegramdotcom": {
+        "geoname": "Worcester, Massachusetts",
+        "latlong": "42.2625621, -71.8018877"
+    },
+    "theadvertiser": {
+        "geoname": "Lafayette, Louisiana",
+        "latlong": "30.2043259, -92.0298813"
+    },
+    "thedailyherald": {
+        "geoname": "Columbia, Tennessee",
+        "latlong": "35.6150716, -87.0352831"
+    },
+    "thedailyjournal": {
+        "geoname": "Vineland, New Jersey",
+        "latlong": "39.4862777, -75.0254256"
+    },
+    "thedbk": {
+        "geoname": "College Park, Maryland",
+        "latlong": "38.9904124, -76.9438586"
+    },
+    "theeveningsun": {
+        "geoname": "York, Pennsylvania",
+        "latlong": "39.9067499, -76.7008946"
+    },
+    "theheraldtimes": {
+        "geoname": "Bloomington, Indiana",
+        "latlong": "39.1670396, -86.5342881"
+    },
+    "thehilltimes": {
+        "geoname": "Ottawa, Canada",
+        "latlong": "45.4208777, -75.6901106"
+    },
+    "theipaper": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "thejournal_ie": {
+        "geoname": "Dublin, Ireland",
+        "latlong": "53.3498006, -6.2602964"
+    },
+    "thelasentinel": {
+        "geoname": "Los Angeles, California",
+        "latlong": "34.0536909, -118.242766"
+    },
+    "theledger": {
+        "geoname": "Lakeland, Florida",
+        "latlong": "28.0394654, -81.9498042"
+    },
+    "thenewmexican": {
+        "geoname": "Sante Fe, New Mexico",
+        "latlong": "33.2887, -104.453653"
+    },
+    "thenewsstar": {
+        "geoname": "Monroe, Louisiana",
+        "latlong": "32.516374, -92.1565591"
+    },
+    "thephilacitizen": {
+        "geoname": "Philadelphia, Pennsylvania",
+        "latlong": "39.9527237, -75.1635262"
+    },
+    "therecordherald": {
+        "geoname": "Waynesboro, Pennsylvania",
+        "latlong": "39.7557827, -77.5776512"
+    },
+    "thetimesnews": {
+        "geoname": "Burlington, North Carolina",
+        "latlong": "36.0956918, -79.4377991"
+    },
+    "thetorontosun": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "timesenterprise": {
+        "geoname": "Thomasville, Georgia",
+        "latlong": "30.8365815, -83.9787808"
+    },
+    "timesgazette": {
+        "geoname": "Ashland, Ohio",
+        "latlong": "40.7887367, -82.2360391"
+    },
+    "timesofindia": {
+        "geoname": "New Delhi, India",
+        "latlong": "28.6138954, 77.2090057"
+    },
+    "timesrecordnews": {
+        "geoname": "Wichita Falls, Texas",
+        "latlong": "33.9004572, -98.5020777"
+    },
+    "torontostar": {
+        "geoname": "Toronto, Canada",
+        "latlong": "43.6534817, -79.3839347"
+    },
+    "tuscaloosanews": {
+        "geoname": "Tuscaloosa, Alabama",
+        "latlong": "33.2095614, -87.5675258"
+    },
+    "udn": {
+        "geoname": "New Taipei City, Taiwan",
+        "latlong": "25.0721342, 121.679919"
+    },
+    "ukrinform": {
+        "geoname": "Kiev, Ukraine",
+        "latlong": "50.4500336, 30.5241361"
+    },
+    "unherd": {
+        "geoname": "London, United Kingdom of Great Britain and Northern Ireland",
+        "latlong": "51.5073219, -0.1276474"
+    },
+    "unichicago": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "uticaOD": {
+        "geoname": "Utica, New York state",
+        "latlong": "43.1009031, -75.2326641"
+    },
+    "uwogazette": {
+        "geoname": "London, Canada",
+        "latlong": "42.9832406, -81.243372"
+    },
+    "valoreconomico": {
+        "geoname": "Sao Paulo, Brazil",
+        "latlong": "-23.5506507, -46.6333824"
+    },
+    "vancouversun": {
+        "geoname": "Vancouver, Canada",
+        "latlong": "49.2608724, -123.113952"
+    },
+    "vcstar": {
+        "geoname": "Camarillo, California",
+        "latlong": "34.2176371, -119.0383541"
+    },
+    "vermontpublic": {
+        "geoname": "Colchester, Vermont",
+        "latlong": "44.5461082, -73.1537882"
+    },
+    "vgnett": {
+        "geoname": "Oslo, Norway",
+        "latlong": "59.9133301, 10.7389701"
+    },
+    "voiceofoc": {
+        "geoname": "Santa Ana, California",
+        "latlong": "33.7494951, -117.8732213"
+    },
+    "voiceofsandiego": {
+        "geoname": "San Diego, California",
+        "latlong": "32.7174202, -117.1627728"
+    },
+    "voicesofbay": {
+        "geoname": "Monterey, California",
+        "latlong": "36.2231079, -121.387742"
+    },
+    "vryeweekblad": {
+        "geoname": "Cape Town, South Africa",
+        "latlong": "-33.928992, 18.417396"
+    },
+    "vtdigger": {
+        "geoname": "Burlington, Vermont",
+        "latlong": "44.4761601, -73.212906"
+    },
+    "vtdnews": {
+        "geoname": "Visalia, California",
+        "latlong": "36.3302284, -119.292058"
+    },
+    "wabenews": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "washingtonpost": {
+        "geoname": "Washington, Maryland",
+        "latlong": "39.5893502, -77.710254"
+    },
+    "wausauherald": {
+        "geoname": "Wausau, Wisconsin",
+        "latlong": "44.9596017, -89.6298239"
+    },
+    "wave3news": {
+        "geoname": "Louisville, Kentucky",
+        "latlong": "38.2542376, -85.759407"
+    },
+    "wcfcourier": {
+        "geoname": "Waterloo, Iowa",
+        "latlong": "42.498275, -92.3328743"
+    },
+    "wearehpr": {
+        "geoname": "Honolulu, Hawaii",
+        "latlong": "21.304547, -157.855676"
+    },
+    "wfaa": {
+        "geoname": "Dallas, Texas",
+        "latlong": "32.7762719, -96.7968559"
+    },
+    "wnpr": {
+        "geoname": "Hartford, Connecticut",
+        "latlong": "41.764582, -72.6908547"
+    },
+    "wplglocal10": {
+        "geoname": "Miami, Florida",
+        "latlong": "25.7741728, -80.19362"
+    },
+    "wral": {
+        "geoname": "Raleigh, North Carolina",
+        "latlong": "35.7803977, -78.6390989"
+    },
+    "wrblnews3": {
+        "geoname": "Columbus, Georgia",
+        "latlong": "32.4610708, -84.9880449"
+    },
+    "wrtribune": {
+        "geoname": "Wisconsin Rapids, Wisconsin",
+        "latlong": "44.3917589, -89.8228767"
+    },
+    "wsbtv": {
+        "geoname": "Atlanta, Georgia",
+        "latlong": "33.7489924, -84.3902644"
+    },
+    "wttw": {
+        "geoname": "Chicago, Illinois",
+        "latlong": "41.8755616, -87.6244212"
+    },
+    "wvgazettemail": {
+        "geoname": "Charleston, West Virginia",
+        "latlong": "38.3505995, -81.6332812"
+    },
+    "wvstatejournal": {
+        "geoname": "Charleston, West Virginia",
+        "latlong": "38.3505995, -81.6332812"
+    },
+    "yaledailynews": {
+        "geoname": "New Haven, Connecticut",
+        "latlong": "41.3082138, -72.9250518"
+    },
+    "ydrcom": {
+        "geoname": "York, Pennsylvania",
+        "latlong": "39.9067499, -76.7008946"
+    },
+    "ynetalerts": {
+        "geoname": "Rishon LeZion, Israel",
+        "latlong": "31.9635712, 34.8101149"
+    },
+    "zeitonline": {
+        "geoname": "Berlin, Germany",
+        "latlong": "52.5170365, 13.3888599"
+    },
+    "zerohora": {
+        "geoname": "Porto Alegre, Brazil",
+        "latlong": "-30.0324999, -51.2303767"
+    },
+    "zn_ua": {
+        "geoname": "Kiev, Ukraine",
+        "latlong": "50.4500336, 30.5241361"
+    },
+    "calcalist": {
+        "geoname": "Tel Aviv, Israel",
+        "latlong": "32.0852997, 34.7818064"
+    },
+    "ZmanIsrael": {
+        "geoname": "Tel Aviv, Israel",
+        "latlong": "32.0852997, 34.7818064"
+    },
+    "thePUPnews": {
+        "geoname": "Pittsburgh, Pennsylvania",
+        "latlong": "40.4416941, -79.9900861"
+    },
+    "beaufortgazette": {
+        "geoname": "Beaufort, South Carolina",
+        "latlong": "32.4315813, -80.6698286"
+    },
+    "bellevillenewsd": {
+        "geoname": "Belleville, Illinois",
+        "latlong": "38.5200504, -89.9839935"
+    },
+    "BhamHerald": {
+        "geoname": "Bellingham, Washington",
+        "latlong": "48.7544012, -122.478836"
+    },
+    "bradentonherald": {
+        "geoname": "Bradenton, Florida",
+        "latlong": "27.4989278, -82.5748194"
+    },
+    "centredaily": {
+        "geoname": "State College, Pennsylvania",
+        "latlong": "40.7944504, -77.8616386"
+    },
+    "elnuevoherald": {
+        "geoname": "Miami, Florida",
+        "latlong": "25.7741728, -80.19362"
+    },
+    "FresnoBee": {
+        "geoname": "Fresno, California",
+        "latlong": "36.7394421, -119.7848307"
+    },
+    "heraldleader": {
+        "geoname": "Lexington, Kentucky",
+        "latlong": "38.0464066, -84.4970393"
+    },
+    "IdahoStatesman": {
+        "geoname": "Boise, Idaho",
+        "latlong": "43.6166163, -116.200886"
+    },
+    "islandpacket": {
+        "geoname": "Hilton Head Island, South Carolina",
+        "latlong": "32.1618488, -80.7512616"
+    },
+    "kansasdotcom": {
+        "geoname": "Witchita, Kansas",
+        "latlong": "37.6821252, -97.2308104"
+    },
+    "KCStar": {
+        "geoname": "Kansas City, Missouri",
+        "latlong": "39.100105, -94.5781416"
+    },
+    "LedgerEnquirer": {
+        "geoname": "Columbus, Georgia",
+        "latlong": "32.4610708, -84.9880449"
+    },
+    "MercedSunStar": {
+        "geoname": "Merced, California",
+        "latlong": "37.1641544, -120.7678602"
+    },
+    "MiamiHerald": {
+        "geoname": "Miami, Florida",
+        "latlong": "25.7741728, -80.19362"
+    },
+    "modbee": {
+        "geoname": "Modesto, California",
+        "latlong": "37.6390972, -120.9968782"
+    },
+    "newsobserver": {
+        "geoname": "Raleigh, North Carolina",
+        "latlong": "35.7803977, -78.6390989"
+    },
+    "RHHerald": {
+        "geoname": "Rock Hill, South Carolina",
+        "latlong": "34.9248667, -81.0250784"
+    },
+    "sacbee_news": {
+        "geoname": "Sacramento, California",
+        "latlong": "38.5810606, -121.493895"
+    },
+    "SLOTribune": {
+        "geoname": "San Luis Obispo, California",
+        "latlong": "35.3540209, -120.375716"
+    },
+    "startelegram": {
+        "geoname": "Fort Worth, Texas",
+        "latlong": "32.753177, -97.3327459"
+    },
+    "sunherald": {
+        "geoname": "Biloxi, Mississippi",
+        "latlong": "30.4007626, -88.8893818"
+    },
+    "telegraphga": {
+        "geoname": "Macon, Georgia",
+        "latlong": "32.8406946, -83.6324022"
+    },
+    "TheHerald_Sun": {
+        "geoname": "Raleigh, North Carolina",
+        "latlong": "35.7803977, -78.6390989"
+    },
+    "thenewstribune": {
+        "geoname": "Tacoma, Washington",
+        "latlong": "47.2455013, -122.438329"
+    },
+    "theolympian": {
+        "geoname": "Olympia, Washington",
+        "latlong": "47.0451022, -122.8950075"
+    },
+    "thestate": {
+        "geoname": "1927 Thurmond Mall, Suite 102, Columbia, SC 29201, South Carolina",
+        "latlong": "34.0004, -81.0334"
+    },
+    "TheSunNews": {
+        "geoname": "Myrtle Beach, South Carolina",
+        "latlong": "33.6956461, -78.8900409"
+    },
+    "TriCityHerald": {
+        "geoname": "Kennewick, Washington",
+        "latlong": "46.2087066, -119.119919"
+    },
+    "theobserver": {
+        "geoname": "Charlotte, North Carolina",
+        "latlong": "35.2272086, -80.8430827"
+    }
+}
